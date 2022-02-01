@@ -1,0 +1,13 @@
+{
+  "name": "Azuki #111",
+  "image": "https://ikzttp.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/111.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Human" },
+    { "trait_type": "Hair", "value": "Black Fluffy" },
+    { "trait_type": "Ear", "value": "Wu" },
+    { "trait_type": "Clothing", "value": "Light Kimono" },
+    { "trait_type": "Eyes", "value": "Careless" },
+    { "trait_type": "Mouth", "value": "Relaxed" },
+    { "trait_type": "Background", "value": "Off White A" }
+  ]
+}
